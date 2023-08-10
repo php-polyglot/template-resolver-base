@@ -1,0 +1,7 @@
+*.md    text eol=lf
+*.json  text eol=lf
+*.php   text eol=lf
+*.yml   text eol=lf
+*.dist  text eol=lf
+LICENCE text eol=lf
+*.dist  export-ignore
